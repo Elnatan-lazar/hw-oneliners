@@ -7,6 +7,7 @@ if __name__ == '__main__':
         for (int i = 0; i < n; i++) {
            output[i] = d;
         }
+        
     """
     n, d = map(int, input().split())
     output = [d] * n  # Put your line here (my solution: 5 chars)
